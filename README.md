@@ -4,3 +4,5 @@ I tend to learn better if I go into a topic with the mindset of 'How would I exp
 So I used that mindset to create that noteboook, and I feel that I gained a better grasp on the topic than if I had only did the model.
 
 Also it made me learn more about how to create detailed jupyter notebooks/google colab files.
+
+After that I used that exact model to classify the mnist fashion dataset which got 90.39 percent test accuracy
